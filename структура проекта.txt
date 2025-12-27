@@ -1,0 +1,23 @@
+svoya-webapp/
+│
+├── index.html                    # Главная страница
+├── manifest.json                 # Конфигурация Web App
+├── robots.txt                   # Для поисковых систем
+│
+├── css/                         # Стили
+│   ├── style.css               # Основные стили
+│   ├── telegram.css           # Стили для Telegram Web App
+│   └── responsive.css          # Адаптивные стили
+│
+├── js/                          # Скрипты
+│   ├── config.js               # Конфигурация
+│   ├── products.js             # Данные товаров
+│   ├── cart.js                 # Корзина покупок
+│   ├── telegram.js             # Интеграция с Telegram
+│   ├── navigation.js           # Навигация
+│   ├── modals.js               # Модальные окна
+│   └── app.js                  # Основной скрипт
+│
+└── assets/                      # Ресурсы
+    ├── icons/                  # Иконки
+    └── fonts/                  # Шрифты (если нужны)
